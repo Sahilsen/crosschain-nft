@@ -1,0 +1,15 @@
+{
+    "name": "QN CCIP NFT",
+    "description": "Cross Chain NFT",
+    "image": "METADATA_URL",
+    "attributes": [
+        {
+            "trait_type": "Year",
+            "value": "2023"
+        },
+        {
+            "trait_type": "Sticker",
+            "value": "Moonman"
+        },
+    ]
+}
